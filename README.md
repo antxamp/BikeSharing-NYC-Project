@@ -19,53 +19,52 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 ### Objective:
 
 ### Change Trip Duration to a Datetime Format
-##### Image below are results for Deliverable 1:
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/deliverable_1.PNG" width="640" height="400">
+##### Using Jupyter Notebook and Python to change the Data Frame
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/deliverable_1.PNG)
 
 ### Create Visualizations for the Trip Analysis
 #### The screenshots below are of all the different graphs and small details of each graph.
 
 #### a. Below is the chart for Checkout Times for Users Viz
-    -- In this visualization, is a graph of the length of time that bikes are checked out for all riders.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2A.png" width="640" height="400">
+    -- In this visualization, is a graph of how long bikes are checked out for in minutes.
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2A.png)
     
 
 #### b. Below is the chart for Checkout Times by Gender Viz
     -- In this visualization, is a graph of the length of time that bikes are checked out for each gender.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2B.png" width="640" height="400">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2B.png)
 
 
 ##### c. Below is the chart for Trips by Weekday for Each Hour Viz
     -- In this visualization, is a graph of the number of bike trips by weekday for each hour of the day as a heatmap.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2C.PNG" width="640" height="450">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2C.PNG)
 
 
 ##### d. Below is the chart for Trips by Gender (Weekday per Hour) Viz
     -- In this visualization, is a graph of the number of bike trips by gender for each hour of each day of the week as a heatmap.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2D.png" width="690" height="500">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2D.png)
 
 
 ##### e. Below is the chart for User Trips by Gender by Weekday Viz
     -- In this visualization, is a graph of the number of bike trips by gender for each hour for each day of the week as a heatmap.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2E.png" width="680" height="350">
-
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2E.png)
 
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 ##### Image results for Deliverable 3:
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/deliverable_3.PNG" width="640" height="400">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/deliverable_3.PNG)
 
 ### Below are the additional charts for deliverable 3.
 ##### f. Below is the chart for Customer Type
     -- In this visualization, is a pie chart of customer types.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2F.png" width="800" height="250">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2F.png)
 
 ##### g. Below is the chart for Bike utilization
     -- In this visualization, is a circle and size viz of bike utilization.
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2G.png" width="500" height="500">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2G.png)
 
 ##### h. Below is the chart for Top Start Locations
-<img src="https://github.com/antxamp/bikesharing/blob/main/Resources/del2H.png" width="640" height="400">
+![image](https://github.com/antxamp/bikesharing/blob/main/Resources/del2H.png)
 
 ### Summary:
   - With the visual data we were able to show that there are increasing sales numbers in mostly tourists areas such as shown in Manhattan.
