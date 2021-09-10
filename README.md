@@ -1,4 +1,4 @@
-# bikesharing
+# BikeSharing in New York City
 [Link to my tableau story](https://public.tableau.com/views/TheNYCCitiBikeStory/TheNYCStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview:
@@ -18,11 +18,11 @@ Finally, you’ll add these new visualizations to the two you created in this mo
   
 ### Objective:
 
-### Deliverable 1: Change Trip Duration to a Datetime Format
+### Change Trip Duration to a Datetime Format
 ##### Image below are results for Deliverable 1:
 <img src="https://github.com/antxamp/bikesharing/blob/main/Resources/deliverable_1.PNG" width="640" height="400">
 
-### Deliverable 2: Create Visualizations for the Trip Analysis
+### Create Visualizations for the Trip Analysis
 #### The screenshots below are of all the different graphs and small details of each graph.
 
 #### a. Below is the chart for Checkout Times for Users Viz
